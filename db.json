@@ -1,4 +1,4 @@
-"contentPages": [
+{"contentPages": [
   {
     "id": 1,
     "title": "Movies",
@@ -35,4 +35,4 @@
     "location": "/content/blog",
     "bgcolor": "322332"
   }
-]
+]}
