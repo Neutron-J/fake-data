@@ -1,0 +1,38 @@
+"contentPages": [
+  {
+    "id": 1,
+    "title": "Movies",
+    "location": "/content/movies",
+    "bgcolor": "ffffff"
+  },
+  {
+    "id": 2,
+    "title": "Television",
+    "location": "/content/tv",
+    "bgcolor": "322332"
+  },
+  {
+    "id": 3,
+    "title": "Phone",
+    "location": "/content/phones",
+    "bgcolor": "ed0000"
+  },
+  {
+    "id": 4,
+    "title": "Competition",
+    "location": "/content/competition",
+    "bgcolor": "efefef"
+  },
+  {
+    "id": 5,
+    "title": "Sport",
+    "location": "/content/sport",
+    "bgcolor": "322332"
+  },
+  {
+    "id": 6,
+    "title": "Blog",
+    "location": "/content/blog",
+    "bgcolor": "322332"
+  }
+]
